@@ -1,0 +1,30 @@
+.page1{
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    z-index: 9;
+    padding-top: 12vw;
+}
+.page1 h1{
+    font-size: 8vw;
+    font-weight: 300;
+    font-family: PP mori;
+
+    margin-left: 6vw;
+    transform-origin: left;
+}
+.page1 h2{
+    font-size: 8vw;
+    font-weight: 300;
+    transform-origin: left;
+
+    margin-left: 26vw;
+}
+
+.page1 video{
+    width: 60%;
+    margin-top: 10vw;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%,0);
+}
